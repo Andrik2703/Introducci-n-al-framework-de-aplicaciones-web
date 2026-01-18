@@ -1,0 +1,8 @@
+npm install
+
+cp .env.example .env
+# Editar .env con tus configuraciones
+
+npm run dev
+
+npm start
