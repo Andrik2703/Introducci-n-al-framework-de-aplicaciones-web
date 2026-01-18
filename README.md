@@ -11,6 +11,9 @@ Una API RESTful construida con Node.js y Express.
 - ✅ CORS habilitado
 - ✅ Estructura modular y escalable
 
+- <img width="190" height="563" alt="image" src="https://github.com/user-attachments/assets/d509cf90-b641-42a5-95c6-9394369171d8" />
+
+
 ## 🛠️ Prerrequisitos
 
 - Node.js 16.x o superior
@@ -24,4 +27,5 @@ git clone [url-del-repositorio]
 
 cd mi-proyecto
 
-<img width="190" height="563" alt="image" src="https://github.com/user-attachments/assets/352ed5a2-9342-4fd4-8aa2-1d0974d43295" />
+
+
