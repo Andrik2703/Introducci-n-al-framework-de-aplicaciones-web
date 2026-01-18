@@ -1,5 +1,24 @@
-# Introducci-n-al-framework-de-aplicaciones-web
-Crear estructura inicial del proyecto
+# 🚀 Mi Proyecto Node.js
 
+Una API RESTful construida con Node.js y Express.
 
-<img width="190" height="563" alt="image" src="https://github.com/user-attachments/assets/7aa47c57-9e40-4e35-a516-a0533b0ea707" />
+## ✨ Características
+
+- ✅ Express.js como framework web
+- ✅ Configuración de entorno con dotenv
+- ✅ Seguridad con Helmet.js
+- ✅ Logging con Morgan
+- ✅ CORS habilitado
+- ✅ Estructura modular y escalable
+
+## 🛠️ Prerrequisitos
+
+- Node.js 16.x o superior
+- npm 8.x o superior
+
+## ⚙️ Instalación
+
+1. Clonar el repositorio:
+```bash
+git clone [url-del-repositorio]
+cd mi-proyecto
