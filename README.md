@@ -1,29 +1,5 @@
 # Introducci-n-al-framework-de-aplicaciones-web
 Crear estructura inicial del proyecto
-mi-proyecto/
-├── src/
-│   ├── controllers/
-│   │   └── index.js
-│   ├── models/
-│   │   └── index.js
-│   ├── routes/
-│   │   └── index.js
-│   ├── middleware/
-│   │   └── index.js
-│   ├── utils/
-│   │   └── index.js
-│   ├── config/
-│   │   └── database.js
-│   └── app.js
-├── public/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── tests/
-│   └── unit/
-├── .env
-├── .env.example
-├── .gitignore
-├── package.json
-├── README.md
-└── server.js
+
+
+<img width="190" height="563" alt="image" src="https://github.com/user-attachments/assets/7aa47c57-9e40-4e35-a516-a0533b0ea707" />
